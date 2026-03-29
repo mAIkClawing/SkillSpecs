@@ -1,3 +1,11 @@
 {
-  "specs": []
+  "specs": [
+    {
+      "name": "dailybriefing",
+      "file": "dailybriefing-spec.md",
+      "created": "2026-03-28",
+      "updated": "2026-03-28",
+      "status": "draft"
+    }
+  ]
 }
